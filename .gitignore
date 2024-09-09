@@ -1,0 +1,19 @@
+# Django specific
+*.pyc
+*__pycache__/
+db.sqlite3
+/media/
+/staticfiles/
+/myenv/
+*.env
+
+# VS Code
+.vscode/
+
+# Other environments
+*.log
+*.bak
+.idea/
+
+# Ignore virtual environment
+venv/
